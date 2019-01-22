@@ -38,6 +38,7 @@ namespace L1_program
             double area = Math.Sqrt(r); // give square root of A
 
             Console.WriteLine("Area of triangle is " + area);
+            Console.WriteLine("Enter any key for next exercise");
             Console.ReadKey(true);
 
 
@@ -63,10 +64,14 @@ namespace L1_program
 
             else if (number % 2 != 0)
             {
-                Console.WriteLine(n + " is odd number");
+                Console.WriteLine(n + " is odd numbe");
+
 
             }
+
+            Console.WriteLine("Enter any key for next exercise");
             Console.ReadKey(true);
+        
 
 
 
