@@ -104,6 +104,7 @@ namespace L1_program
             else
             {
                 Console.WriteLine("two or more numbers are same");
+                
             }
 
 
